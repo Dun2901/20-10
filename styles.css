@@ -134,3 +134,29 @@ section a {
 .swiper-3d .swiper-slide-shadow-right {
   background-image: none;
 }
+
+/* Điện thoại di động */
+@media screen and (max-width: 768px) {
+  section {
+    gap: 10px;
+    padding: 0 10px;
+  }
+
+  .swiper-slide {
+    height: 300px;
+    padding: 0 0 40px;
+  }
+
+  .swiper-slide h2 {
+    font-size: 1rem;
+  }
+
+  .swiper-slide a {
+    font-size: 18px;
+  }
+
+  .swiper-pagination {
+    bottom: 10px !important; /* Điều chỉnh khoảng cách từ dưới lên */
+    transform: scale(1); /* Khôi phục tỷ lệ scale nếu bạn đã thay đổi */
+  }
+}
