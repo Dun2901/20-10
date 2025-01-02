@@ -93,42 +93,60 @@ section a {
 
 .swiper-slide--one {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("1.jpg") no-repeat 50% 50% / cover;
+    url("3423A16B-BA9B-4D0A-8B32-90E93D1FA6C6.jpg") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--two {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("2.jpg") no-repeat 50% 50% / cover;
+    url("cpm35 2024-03-09 183022.191.jpg") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--three {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("3.jpg") no-repeat 50% 50% / cover;
+    url("EFC78A3D-80FA-4BD9-983E-E300FB98331C.jpg") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--four {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("4.jpg") no-repeat 50% 50% / cover;
+    url("IMG_1194.JPG") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--five {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("5.jpg") no-repeat 50% 50% / cover;
+    url("IMG_2318.JPG") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--six {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("6.jpg") no-repeat 50% 50% / cover;
+    url("IMG_3912.JPG") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--seven {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("7.jpg") no-repeat 50% 50% / cover;
+    url("IMG_4399.JPG") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--eight {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("8.jpg") no-repeat 50% 50% / cover;
+    url("IMG_4468.JPG") no-repeat 50% 50% / cover;
+}
+
+.swiper-slide--nine {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("IMG_4737.JPG") no-repeat 50% 50% / cover;
+}
+
+.swiper-slide--ten {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("IMG_5227.JPG") no-repeat 50% 50% / cover;
+}
+.swiper-slide--ele {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("IMG_5904.GIF") no-repeat 50% 50% / cover;
+}
+.swiper-slide--twe {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("IMG_5930.PNG") no-repeat 50% 50% / cover;
 }
 .swiper-3d .swiper-slide-shadow-left,
 .swiper-3d .swiper-slide-shadow-right {
